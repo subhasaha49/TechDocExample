@@ -4,5 +4,6 @@ site_description: 'An example of doc site with multiple nav links'
 nav:
   - Introduction: index.md
   - Getting Started: getting-started.md
+  - API Reference: api-reference.md
 plugins:
   - techdocs-core
